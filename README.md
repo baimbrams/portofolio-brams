@@ -600,5 +600,4 @@ style={{
 </details>
 
 
-## <a name="links">🔗 Assets</a>
 
