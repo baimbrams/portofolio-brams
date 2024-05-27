@@ -194,7 +194,7 @@ export const workExperience = [
   },
   {
     id: 4,
-    title: "Lead User Experienc Developer",
+    title: "Lead User Experience Developer",
     desc: "Developed and maintained user-centered design features using modern frontend technologies.",
     className: "md:col-span-2",
     thumbnail: "/exp4.svg",
